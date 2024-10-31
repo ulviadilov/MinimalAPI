@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|c:\\users\\ulvia\\source\\repos\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|c:\\users\\ulvia\\source\\repos\\minimalapi\\minimalapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|c:\\users\\ulvia\\source\\repos\\minimalapi\\minimalapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB9C96E-47E4-4164-9BA2-4BB03E1B656C}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MinimalApi\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MinimalApi\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:35:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MinimalApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\Models\\Student.cs",
+              "RelativeToolTip": "MinimalApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:34:02.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ulvia\\source\\repos\\MinimalApi\\MinimalApi\\Program.cs",
+              "RelativeToolTip": "MinimalApi\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:33:06.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
